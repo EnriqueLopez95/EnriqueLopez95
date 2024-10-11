@@ -1,4 +1,4 @@
-![Header Image](./assets/banner.png)
+![Header Image](./assets/banner3.png)
 
 # ¡Hola! 👋, Soy Enrique López
 
